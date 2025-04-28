@@ -22,12 +22,16 @@ redirect_from:
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 I am a third-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**Prof. Gongshen Liu**</span> and <span style="color:purple">**Dr. Zhuosheng Zhang**</span>. My research mainly focuses on <span style="color:purple">**Large Language Model Powered Agents**</span> and <span style="color:purple">**Security of Large Language Models**</span>.
 
+<span class='anchor' id='-news'></span>
+
 # 🔥 News
 - *2025.02.26*: &nbsp;One Paper has been published at TNNLS 🎉🎉. 
 - *2024.12.25*: &nbsp;One Paper has been accepted at Journal of Cyber Security 🎉🎉. 
 - *2024.12.15*: &nbsp;One Paper has been accepted at NAACL 2025 🎉🎉. 
 - *2024.12.01*: &nbsp;One Paper has been accepted at COLING 2025 🎉🎉. 
 - *2024.08.10*: &nbsp;One Paper has been published at ACL 2024 🎉🎉. 
+
+<span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
 
@@ -76,6 +80,9 @@ Pengzhou Cheng, Wei Du, **Zongru Wu**, Fengwei Zhang, Libo Chen, Zhuosheng Zhang
 </div>
 </div> 
 
+
+<span class='anchor' id='-honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2024.12* The Shanghai Jiao Tong
 University First-Class Cybersecurity Scholarship.
@@ -88,6 +95,8 @@ Second Place Winner Award of the 14th National College Student Information Secur
 - *2021* The Meritorious Winner in the Mathematical Contest in Modeling (MCM).
 
 
+<span class='anchor' id='-educations'></span>
+
 # 📖 Educations
 - *2022.09 - (now)*, Shanghai Jiao Tong University, Ph.D. - SCHOOL OF CYBER SCIENCE AND ENGINEERING.
 - *2018.09 - 2022.06*, Wuhan University, Bachelor of Engineering - SCHOOL OF CYBER SCIENCE AND ENGINEERING.
@@ -98,6 +107,9 @@ Second Place Winner Award of the 14th National College Student Information Secur
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+
+<span class='anchor' id='-academic-service'></span>
 
 # Academic Service
 - Conference Reviewer: ACL ARR 2024, NAACL ARR 2025, IJCNN 2025, ACL ARR 2025.
