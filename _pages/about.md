@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**Prof. Gongshen Liu**</span> and <span style="color:purple">**Dr. Zhuosheng Zhang**</span>. My research mainly focuses on <span style="color:purple">**Large Language Model Powered Agents**</span> and <span style="color:purple">**Security of Large Language Models**</span>.
+- I am a third-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**Prof. Gongshen Liu**</span> and <span style="color:purple">**Dr. Zhuosheng Zhang**</span>. 
+- I got my bachelor's degree from of Cyber Science and Engineering, Wuhan University in 2022.
+- My general research interest lies in <span style="color:purple">**Large Language Model Powered Agents**</span> and <span style="color:purple">**Security of Large Language Models**(Backdoor)</span>.
+- Prospective collaborators: If you're a Ph.D/master/bachelor student and interested in working with me, feel free to send me an email. 欢迎对我的研究感兴趣的同学邮件/微信联系我合作，尤其欢迎计划选择刘功申/张倬胜教授作为导师的本科生/硕士生。
+
 
 <span class='anchor' id='#-news'></span>
 
@@ -77,6 +81,10 @@ Pengzhou Cheng, Wei Du, **Zongru Wu**, Fengwei Zhang, Libo Chen, Zhuosheng Zhang
 </div>
 </div> 
 
+<span class='anchor' id='-tutorials-and-contributions'></span>
+
+# 🛠️ Tutorials and Contributions
+- Participating: <span style="color:purple">**《大模型开发全流程》Course Series**</span> [Link](https://www.hiascend.com/edu/growth/lm-development#classification-floor-1).
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -108,5 +116,5 @@ Second Place Winner Award of the 14th National College Student Information Secur
 
 <span class='anchor' id='-academic-service'></span>
 
-# Academic Service
+# 🎓 Academic Service
 - Conference Reviewer: ACL ARR 2024, NAACL ARR 2025, IJCNN 2025, ACL ARR 2025.
