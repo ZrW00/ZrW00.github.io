@@ -19,10 +19,10 @@ redirect_from:
 
 # 🙋‍♂️ About Me
 
-- I am a third-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**Prof. Gongshen Liu**</span> and <span style="color:purple">**Dr. Zhuosheng Zhang**</span>. 
-- I got my bachelor's degree from of Cyber Science and Engineering, Wuhan University in 2022.
+- I am a third-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**Prof. Gongshen Liu**</span> and <span style="color:purple">**Asst. Prof. Zhuosheng Zhang**</span>. 
+- I got my B.S. degree from of Cyber Science and Engineering, Wuhan University in 2022.
 - My general research interest lies in <span style="color:purple">**Large Language Model Powered Agents**</span> and <span style="color:purple">**Security of Large Language Models**(Backdoor)</span>.
-- Prospective collaborators: If you're a Ph.D./Master/Bachelor student and interested in working with me, feel free to email me. 欢迎对我的研究感兴趣的同学邮件/微信联系我合作，尤其欢迎计划选择刘功申/张倬胜教授作为导师的本科生/硕士生。
+- **Call for Collaboration**: If you're a Ph.D./Master/Bachelor student and interested in working with me, feel free to email me. 欢迎对我的研究感兴趣的同学邮件/微信联系我合作，尤其欢迎计划选择刘功申/张倬胜教授作为导师的本科生/硕士生。
 
 
 <span class='anchor' id='#-news'></span>
@@ -37,6 +37,17 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/queryInferenceDemo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks](https://arxiv.org/abs/2503.00401)
+
+**Zongru Wu**, Pengzhou Cheng, Zheng Wu, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu
+
+- We propose a pivot task name query inference to smooth coordinate-oriented grounding and action-oriented reasoning, enhancing the comprehension of user intent and imporoving the performance of MLLM-powered GUI agents in resource-constrained scenarios.
+</div>
+</div> 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/TNNLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
