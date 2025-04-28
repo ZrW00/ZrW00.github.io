@@ -79,7 +79,7 @@ Pengzhou Cheng, Wei Du, **Zongru Wu**, Fengwei Zhang, Libo Chen, Zhuosheng Zhang
 
 **Zongru Wu**, Zhuosheng Zhang, Pengzhou Cheng, Gongshen Liu 
 
--  We work proposes a novel approach that encourages language models to prioritize clean mapping by downscaling in the frequency space, thus efficiently reducing the average success rate of backdoor attacks.
+-  We proposes a novel approach that encourages language models to prioritize clean mapping by downscaling in the frequency space, thus efficiently reducing the average success rate of backdoor attacks.
 </div>
 </div> 
 
