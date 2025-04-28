@@ -15,11 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='#about-me'></span>
 
 I am a third-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**Prof. Gongshen Liu**</span> and <span style="color:purple">**Dr. Zhuosheng Zhang**</span>. My research mainly focuses on <span style="color:purple">**Large Language Model Powered Agents**</span> and <span style="color:purple">**Security of Large Language Models**</span>.
 
-<span class='anchor' id='-news'></span>
+<span class='anchor' id='#-news'></span>
 
 # 🔥 News
 - *2025.02.26*: &nbsp;One Paper has been published at TNNLS 🎉🎉. 
@@ -28,7 +28,7 @@ I am a third-year Ph.D. candidate at <span style="color:purple">**the School of 
 - *2024.12.01*: &nbsp;One Paper has been accepted at COLING 2025 🎉🎉. 
 - *2024.08.10*: &nbsp;One Paper has been published at ACL 2024 🎉🎉. 
 
-<span class='anchor' id='-publications'></span>
+<span class='anchor' id='#-publications'></span>
 
 # 📝 Publications 
 
@@ -78,7 +78,7 @@ Pengzhou Cheng, Wei Du, **Zongru Wu**, Fengwei Zhang, Libo Chen, Zhuosheng Zhang
 </div> 
 
 
-<span class='anchor' id='-honors-and-awards'></span>
+<span class='anchor' id='#-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 - *2024.12* The Shanghai Jiao Tong
@@ -92,7 +92,7 @@ Second Place Winner Award of the 14th National College Student Information Secur
 - *2021* The Meritorious Winner in the Mathematical Contest in Modeling (MCM).
 
 
-<span class='anchor' id='-educations'></span>
+<span class='anchor' id='#-educations'></span>
 
 # 📖 Educations
 - *2022.09 - (now)*, Shanghai Jiao Tong University, Ph.D. - SCHOOL OF CYBER SCIENCE AND ENGINEERING.
