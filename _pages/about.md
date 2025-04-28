@@ -123,4 +123,4 @@ Second Place Winner Award of the 14th National College Student Information Secur
 
 # 🎓 Academic Service
 - Conference Reviewer: ACL ARR 2024, NAACL ARR 2025, IJCNN 2025, ACL ARR 2025.
-- Teaching Assistant: "Operating System", Spring 2024, Spring 2025;
+- Teaching Assistant: "Operating System", Spring 2024, Spring 2025.
