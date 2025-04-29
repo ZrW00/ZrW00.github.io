@@ -20,7 +20,7 @@ redirect_from:
 # 🙋‍♂️ About Me
 
 - I am a third-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**Prof. Gongshen Liu**</span> and <span style="color:purple">**Asst. Prof. Zhuosheng Zhang**</span>. 
-- I got my B.S. degree from of Cyber Science and Engineering, Wuhan University in 2022.
+- I received my B.S. degree from of Cyber Science and Engineering, Wuhan University in 2022.
 - My general research interest lies in <span style="color:purple">**Large Language Model Powered Agents**</span> and <span style="color:purple">**Security of Large Language Models**(Backdoor)</span>.
 - **Call for Collaboration**: If you're a Ph.D./Master/Bachelor student and interested in working with me, feel free to email me. 欢迎对我的研究感兴趣的同学邮件/微信联系我合作，尤其欢迎计划选择刘功申/张倬胜教授作为导师的本科生/硕士生。
 
@@ -98,6 +98,7 @@ Pengzhou Cheng, Wei Du, **Zongru Wu**, Fengwei Zhang, Libo Chen, Zhuosheng Zhang
 
 # 🛠️ Tutorials and Contributions
 - Participating: <span style="color:purple">**《大模型开发全流程》Course Series**</span> [Link](https://www.hiascend.com/edu/growth/lm-development#classification-floor-1).
+- Participating: <span style="color:purple">**Dive into LLMs《动手学大模型》Course Series**</span> <a class="github-button" href="https://github.com/Lordog/dive-into-llms" data-icon="octicon-star" data-show-count="true" aria-label="Star dive-into-llms on GitHub">dive-into-llms</a>
 
 <span class='anchor' id='-honors-and-awards'></span>
 
