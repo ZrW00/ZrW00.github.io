@@ -28,6 +28,7 @@ redirect_from:
 <span class='anchor' id='#-news'></span>
 
 # 🔥 News
+- *2025.05.15*: &nbsp;One Paper has been accepted at ACL 2025 🎉🎉. 
 - *2025.02.26*: &nbsp;One Paper has been published at TNNLS 🎉🎉. 
 - *2024.12.25*: &nbsp;One Paper has been accepted at Journal of Cyber Security 🎉🎉. 
 - *2024.12.15*: &nbsp;One Paper has been accepted at NAACL 2025 🎉🎉. 
@@ -37,6 +38,17 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ACL2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](https://arxiv.org/abs/2503.16465)
+
+Pengzhou Cheng, Zheng Wu, **Zongru Wu**, Aston Zhang, Zhuosheng Zhang, Gongshen Liu
+
+- By predicting confidence levels at each interaction step, we are releasing an adaptive GUI agent (OS-Kairos) that alleviates the over-execution of autonomous GUI agents, and significantly improves task success rates in complex scenarios.
+</div>
+</div> 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/queryInferenceDemo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
