@@ -28,6 +28,7 @@ redirect_from:
 <span class='anchor' id='#-news'></span>
 
 # 🔥 News
+- *2025.07.24*: &nbsp;One Paper has been accepted at ICCV 2025 🎉🎉. 
 - *2025.05.15*: &nbsp;One Paper has been accepted at ACL 2025 🎉🎉. 
 - *2025.02.26*: &nbsp;One Paper has been published at TNNLS 🎉🎉. 
 - *2024.12.25*: &nbsp;One Paper has been accepted at Journal of Cyber Security 🎉🎉. 
@@ -39,10 +40,22 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ACL2025.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](https://arxiv.org/abs/2503.16465)
+[Can Knowledge be Transferred from Unimodal to Multimodal? Investigating the Transitivity of Multimodal Knowledge Editing](https://iccv.thecvf.com/virtual/2025/poster/230)
+
+Lingyong Fang, Xinzhong Wang, Depeng Wang, **Zongru Wu**, Ya Guo, Huijia Zhu, Zhuosheng Zhang, Gongshen Liu
+
+- Multimodal Large Language Models (MLLMs) contain a substantial amount of factual knowledge, which may become outdated or inaccurate over time. Consequently, various knowledge editing techniques have been proposed to update the knowledge encoded within these models. Previous approaches maintain modality consistency during both the editing and testing phases. However, in practical applications, it is desirable for knowledge to be transferable across different modalities, which can enhance the robustness of knowledge editing and potentially allow for cost-effective editing of multimodal knowledge using textual information. To address this, we introduce the concept of Transitivity of Multimodal Knowledge Editing (TMKE) and design corresponding evaluation criteria. Subsequently, we construct a corresponding TMKE Benchmark through an automated pipeline. We evaluate three MLLMs and five knowledge editing methods, uncovering limitations in the current models and methods concerning transitivity. Additionally, we analyze the intrinsic representations of the model during the editing process based on Knowledge Neurons to interpret the experimental phenomena.
+</div>
+</div> 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](https://aclanthology.org/2025.findings-acl.348/)
 
 Pengzhou Cheng, Zheng Wu, **Zongru Wu**, Aston Zhang, Zhuosheng Zhang, Gongshen Liu
 
@@ -135,5 +148,6 @@ Second Place Winner Award of the 14th National College Student Information Secur
 <span class='anchor' id='-academic-service'></span>
 
 # 🎓 Academic Service
-- Conference Reviewer: ACL ARR 2024, NAACL ARR 2025, IJCNN 2025, ACL ARR 2025.
+- Conference Reviewer: ACL ARR 2024, NAACL ARR 2025, IJCNN 2025, ACL ARR 2025, EMNLP ARR 2025.
+- Journal Reviewer: IJHCI.
 - Teaching Assistant: "Operating System", Spring 2024, Spring 2025.
