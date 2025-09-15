@@ -41,7 +41,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/EMNLP2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/EMNLP2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents](https://arxiv.org/abs/2505.14418)
@@ -140,13 +140,11 @@ Pengzhou Cheng, Wei Du, **Zongru Wu**, Fengwei Zhang, Libo Chen, Zhuosheng Zhang
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-- *2024.12* The Shanghai Jiao Tong
-University First-Class Cybersecurity Scholarship.
+- *2024.12* The Shanghai Jiao Tong University First-Class Cybersecurity Scholarship.
 - *2023.10* The Shanghai Jiao Tong University Excellent Student Award.
 - *2022.06* Excellent Bachelor's Thesis of Wuhan University.
 - *2022.05* Outstanding Graduates of Wuhan University.
-- *2021.08* The
-Second Place Winner Award of the 14th National College Student Information Security Contest
+- *2021.08* The Second Place Winner Award of the 14th National College Student Information Security Contest
 (CISCN2021).
 - *2021* The Meritorious Winner in the Mathematical Contest in Modeling (MCM).
 
