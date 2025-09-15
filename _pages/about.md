@@ -19,7 +19,7 @@ redirect_from:
 
 # 🙋‍♂️ About Me
 
-- I am a third-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**Prof. Gongshen Liu**</span> and <span style="color:purple">**Asst. Prof. Zhuosheng Zhang**</span>. 
+- I am a four-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**Prof. Gongshen Liu**</span> and <span style="color:purple">**Asst. Prof. Zhuosheng Zhang**</span>. 
 - I received my B.S. degree from of Cyber Science and Engineering, Wuhan University in 2022.
 - My general research interest lies in <span style="color:purple">**Large Language Model Powered Agents**</span> and <span style="color:purple">**Security of Large Language Models**(Backdoor)</span>.
 - **Call for Collaboration**: If you're a Ph.D./Master/Bachelor student and interested in working with me, feel free to email me. 欢迎对我的研究感兴趣的同学邮件/微信联系我合作，尤其欢迎计划选择刘功申/张倬胜教授作为导师的本科生/硕士生。
@@ -28,6 +28,7 @@ redirect_from:
 <span class='anchor' id='#-news'></span>
 
 # 🔥 News
+- *2025.08.22*: &nbsp;One Paper has been accepted at EMNLP 2025 🎉🎉. 
 - *2025.07.24*: &nbsp;One Paper has been accepted at ICCV 2025 🎉🎉. 
 - *2025.05.15*: &nbsp;One Paper has been accepted at ACL 2025 🎉🎉. 
 - *2025.02.26*: &nbsp;One Paper has been published at TNNLS 🎉🎉. 
@@ -39,6 +40,17 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/EMNLP2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents](https://arxiv.org/abs/2505.14418)
+
+Pengzhou Cheng, Haowen Hu, Zheng Wu, Zongru Wu, Tianjie Ju, Daizong Ding, Zhuosheng Zhang, Gongshen Liu 
+
+- We propose AgentGhost—a stealthy and effective red-teaming backdoor attack framework, which reveals that GUI agents powered by MLLMs are vulnerable to backdoor attacks induced by interaction-level triggers. AgentGhost achieves 99.7% attack success with only 1% utility degradation, while our tailored defense reduces the attack success rate to 22.1%.
+</div>
+</div> 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
@@ -149,5 +161,5 @@ Second Place Winner Award of the 14th National College Student Information Secur
 
 # 🎓 Academic Service
 - Conference Reviewer: ACL ARR 2024, NAACL ARR 2025, IJCNN 2025, ACL ARR 2025, EMNLP ARR 2025.
-- Journal Reviewer: IJHCI.
+- Journal Reviewer: Pattern Recognition, IJHCI.
 - Teaching Assistant: "Operating System", Spring 2024, Spring 2025.
