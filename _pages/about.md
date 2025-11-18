@@ -19,7 +19,8 @@ redirect_from:
 
 # 🙋‍♂️ About Me
 
-- I am a four-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**Prof. Gongshen Liu**</span> and <span style="color:purple">**Asst. Prof. Zhuosheng Zhang**</span>. 
+- I am a four-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**[Prof. Gongshen Liu](https://www.cs.sjtu.edu.cn/jiaoshiml/liugongshen.html)**</span> and <span style="color:purple">**[Asst. Prof. Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/home/zhangzs/)**</span>. 
+- Currently, I am also supervised by <span style="color:purple">**[Senior Research Fellow Hao Fei](https://haofei.vip/#)**</span> at School of Computing, National University of Singapore (NUS).
 - I received my B.S. degree from of Cyber Science and Engineering, Wuhan University in 2022.
 - My general research interest lies in <span style="color:purple">**Large Language Model Powered Agents**</span> and <span style="color:purple">**Security of Large Language Models**(Backdoor)</span>.
 - **Call for Collaboration**: If you're a Ph.D./Master/Bachelor student and interested in working with me, feel free to email me. 欢迎对我的研究感兴趣的同学邮件/微信联系我合作，尤其欢迎计划选择刘功申/张倬胜教授作为导师的本科生/硕士生。
@@ -28,6 +29,7 @@ redirect_from:
 <span class='anchor' id='#-news'></span>
 
 # 🔥 News
+- *2025.11.08*: &nbsp;One Paper has been accepted at AAAI 2026 🎉🎉. 
 - *2025.08.22*: &nbsp;One Paper has been accepted at EMNLP 2025 🎉🎉. 
 - *2025.07.24*: &nbsp;One Paper has been accepted at ICCV 2025 🎉🎉. 
 - *2025.05.15*: &nbsp;One Paper has been accepted at ACL 2025 🎉🎉. 
@@ -41,12 +43,23 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents](https://arxiv.org/abs/2505.12842)
+
+Zheng Wu, Pengzhou Cheng, **Zongru Wu**, Lingzhong Dong, Zhuosheng Zhang 
+
+-  In this work, we observe that the in-distribution input semantic space of GUI agents exhibits a clustering pattern with respect to the distance from the centroid. Based on the finding, we propose GEM, a novel method based on fitting a Gaussian mixture model over input embedding distances extracted from the GUI Agent that reflect its capability boundary. 
+</div>
+</div> 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/EMNLP2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents](https://arxiv.org/abs/2505.14418)
+[Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents](https://aclanthology.org/2025.findings-emnlp.411/)
 
-Pengzhou Cheng, Haowen Hu, Zheng Wu, Zongru Wu, Tianjie Ju, Daizong Ding, Zhuosheng Zhang, Gongshen Liu 
+Pengzhou Cheng, Haowen Hu, Zheng Wu, **Zongru Wu**, Tianjie Ju, Daizong Ding, Zhuosheng Zhang, Gongshen Liu 
 
 - We propose AgentGhost—a stealthy and effective red-teaming backdoor attack framework, which reveals that GUI agents powered by MLLMs are vulnerable to backdoor attacks induced by interaction-level triggers. AgentGhost achieves 99.7% attack success with only 1% utility degradation, while our tailored defense reduces the attack success rate to 22.1%.
 </div>
@@ -152,12 +165,13 @@ Pengzhou Cheng, Wei Du, **Zongru Wu**, Fengwei Zhang, Libo Chen, Zhuosheng Zhang
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
+- *2025.10 - (now)*, National University of Singapore, visiting PhD Student. -  SCHOOL OF COMPUTING (SoC).
 - *2022.09 - (now)*, Shanghai Jiao Tong University, Ph.D. - SCHOOL OF CYBER SCIENCE AND ENGINEERING.
 - *2018.09 - 2022.06*, Wuhan University, Bachelor of Engineering - SCHOOL OF CYBER SCIENCE AND ENGINEERING.
 
 <span class='anchor' id='-academic-service'></span>
 
 # 🎓 Academic Service
-- Conference Reviewer: ACL ARR 2024, NAACL ARR 2025, IJCNN 2025, ACL ARR 2025, EMNLP ARR 2025.
-- Journal Reviewer: Pattern Recognition, IJHCI.
+- Conference Reviewer: ACL ARR 2024, NAACL ARR 2025, IJCNN 2025, ACL ARR 2025, EMNLP ARR 2025, CHI 2026, ICLR 2026.
+- Journal Reviewer: Pattern Recognition, IJHCI, TALLIP.
 - Teaching Assistant: "Operating System", Spring 2024, Spring 2025.
