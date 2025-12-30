@@ -20,7 +20,7 @@ redirect_from:
 # 🙋‍♂️ About Me
 
 - I am a four-year Ph.D. candidate at <span style="color:purple">**the School of Cyber Science and Engineering, Shanghai Jiao Tong University**</span>, advised by <span style="color:purple">**[Prof. Gongshen Liu](https://www.cs.sjtu.edu.cn/jiaoshiml/liugongshen.html)**</span> and <span style="color:purple">**[Asst. Prof. Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/home/zhangzs/)**</span>. 
-- Currently, I am also supervised by <span style="color:purple">**[Senior Research Fellow Hao Fei](https://haofei.vip/#)**</span> at School of Computing, National University of Singapore (NUS).
+- Currently, I am also supervised by <span style="color:purple">**[Professor Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/)**</span>, <span style="color:purple">**[Professor Lee Mong Li](https://www.comp.nus.edu.sg/~leeml/)**</span>, and <span style="color:purple">**[Senior Research Fellow Hao Fei](https://haofei.vip/#)**</span> at School of Computing, National University of Singapore (NUS).
 - I received my B.S. degree from of Cyber Science and Engineering, Wuhan University in 2022.
 - My general research interest lies in <span style="color:purple">**Large Language Model Powered Agents**</span> and <span style="color:purple">**Security of Large Language Models**(Backdoor)</span>.
 - **Call for Collaboration**: If you're a Ph.D./Master/Bachelor student and interested in working with me, feel free to email me. 欢迎对我的研究感兴趣的同学邮件/微信联系我合作，尤其欢迎计划选择刘功申/张倬胜教授作为导师的本科生/硕士生。
