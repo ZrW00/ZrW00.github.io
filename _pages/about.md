@@ -29,6 +29,7 @@ redirect_from:
 <span class='anchor' id='#-news'></span>
 
 # 🔥 News
+- *2026.02.23*: &nbsp;One Paper has been accepted at CVPR 2026 🎉🎉.
 - *2025.11.08*: &nbsp;One Paper has been accepted at AAAI 2026 🎉🎉. 
 - *2025.08.22*: &nbsp;One Paper has been accepted at EMNLP 2025 🎉🎉. 
 - *2025.07.24*: &nbsp;One Paper has been accepted at ICCV 2025 🎉🎉. 
@@ -42,6 +43,18 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles](https://arxiv.org/abs/2509.13615)
+
+**Zongru Wu**, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, Zheng Wu, Lingzhong Dong, Haiyue Sheng, Zhuosheng Zhang, Gongshen Liu
+
+-  In this work, we introduce a state control benchmark, revealing the unreliability of existing multimodal agents in GUI toggle control. To this end, we propose **St**ate-**a**ware **R**easoning (StaR), a multimodal reasoning method that enables agents to perceive the current toggle state, infer the desired state from the instruction, and act accordingly. StaR boosts toggle execution accuracy by over 30%.
+</div>
+</div> 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -172,6 +185,6 @@ Pengzhou Cheng, Wei Du, **Zongru Wu**, Fengwei Zhang, Libo Chen, Zhuosheng Zhang
 <span class='anchor' id='-academic-service'></span>
 
 # 🎓 Academic Service
-- Conference Reviewer: ACL ARR 2024, NAACL ARR 2025, IJCNN 2025, ACL ARR 2025, EMNLP ARR 2025, CHI 2026, ICLR 2026.
+- Conference Reviewer: ACL ARR 2024, NAACL ARR 2025, IJCNN 2025, ACL ARR 2025, EMNLP ARR 2025, CHI 2026, ICLR 2026, ICML 2026.
 - Journal Reviewer: Pattern Recognition, IJHCI, TALLIP.
 - Teaching Assistant: "Operating System", Spring 2024, Spring 2025.
